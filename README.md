@@ -23,7 +23,7 @@ The script preserves the course structure by grouping lessons into their respect
 
 ### 1. Export Cookies
 
-You need valid login cookies from your browser, get it Cookie-Editor Extension. (json Format)
+You need valid login cookies from your browser, get it from Cookie-Editor Extension. (json Format)
 
 
 ## Disclaimer
